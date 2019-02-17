@@ -1,2 +1,2 @@
-# Android-Kotlin_Animations
-An example of animations in Android with Kotlin 
+# Android_CodeTraining
+Code training with Kotlin
